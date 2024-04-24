@@ -4,7 +4,7 @@
 
 # Recognito Product List
 
-We provide on-premise SDK solutions for **Face Recognition**, **Liveness Detection**, and **ID Card Recognition**, optimized for server and mobile environments.
+We provide on-premise SDK solutions for **Face Recognition**, **Liveness Detection**, and **ID Document Recognition**, **Liveness Detection** optimized for server and mobile environments.
 
 For more documentation, visit [https://docs.recognito.vision/](https://docs.recognito.vision/).
 
