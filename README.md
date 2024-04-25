@@ -4,13 +4,15 @@
 
 # Recognito Product List
 
-We provide on-premise SDK solutions for **Face Recognition**, **Liveness Detection**, and **ID Document Recognition**, **Liveness Detection** optimized for server and mobile environments.
+We provide Biometric solutions for **Face Recognition**, **Fraud Detection** optimized for server and mobile environments.
+
+<!-- We provide on-premise SDK solutions for **Face Recognition**, **Liveness Detection**, and **ID Document Recognition**, **Liveness Detection** optimized for server and mobile environments. -->
 
 For more documentation, visit [https://docs.recognito.vision/](https://docs.recognito.vision/).
 
 <br/>
 
-## 1. <img src="https://github.com/Recognito-Vision/Product-List/assets/153883841/ec736b67-3c45-4458-ac92-d4992965c925" alt="face sdk" width="25"> Face SDK
+##  <img src="https://github.com/Recognito-Vision/Product-List/assets/153883841/ec736b67-3c45-4458-ac92-d4992965c925" alt="face sdk" width="25"> Face SDK
 
 ### - Features
 
@@ -42,7 +44,7 @@ For more documentation, visit [https://docs.recognito.vision/](https://docs.reco
   |[**iOS Face SDK**](https://github.com/Recognito-Vision/iOS-FaceRecognition-FaceLivenessDetection)|  <img src="https://github.com/Recognito-Vision/Product-List/assets/153883841/a74b00b2-ee2d-4b47-b19a-42d1a13e46a6" alt="ios" width="28px" /> | • Face Recognition <br/> • Face Liveness Detection <br/> • Face Pose Estimation | • 1:N Face Identification Demo |
 
 <br/>
-
+<!--
 ## 2. <img src="https://github.com/Recognito-Vision/Product-List/assets/153883841/078c73fa-ea75-4431-a7aa-731e399edd71" alt="ID Doc sdk" width="25"> ID Document SDK
 
 ### - Features
@@ -73,7 +75,7 @@ For more documentation, visit [https://docs.recognito.vision/](https://docs.reco
     &nbsp;&nbsp;&nbsp;&nbsp;<a target="_blank" href="https://join.slack.com/t/recognito-workspace/shared_invite/zt-2d4kscqgn-"><img src="https://img.shields.io/badge/slack-recognito__workspace-blue.svg?logo=slack " alt="www.recognito.vision"></a>
 </div>
 <br/><br/>
-
+-->
 <p align="center">
     &emsp;&emsp;<a href="https://recognito.vision" style="display: flex; align-items: center;"><img src="https://recognito.vision/wp-content/uploads/2024/03/recognito_64_cl.png" style="width: 32px; margin-right: 5px;"/></a>
     &nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.linkedin.com/company/recognito-vision" style="display: flex; align-items: center;"><img src="https://recognito.vision/wp-content/uploads/2024/03/linkedin_64_cl.png" style="width: 32px; margin-right: 5px;"/></a>
