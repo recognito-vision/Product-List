@@ -8,8 +8,8 @@ We provide Biometric solutions for **Face Recognition**, **Fraud Detection** opt
 
 <!-- We provide on-premise SDK solutions for **Face Recognition**, **Liveness Detection**, and **ID Document Recognition**, **Liveness Detection** optimized for server and mobile environments. -->
 
-For more documentation, visit [https://docs.recognito.vision/](https://docs.recognito.vision/).
-
+## <img src="https://github.com/recognito-vision/.github/assets/153883841/dc7c1c3f-8269-475c-a689-cb57be36a920" alt="home" width="25">   RECOGNITO Product Documentation
+&emsp;&emsp;<a href="https://docs.recognito.vision" style="display: flex; align-items: center;"><img src="https://recognito.vision/wp-content/uploads/2024/05/book.png" style="width: 64px; margin-right: 5px;"/></a>
 <br/>
 
 ##  <img src="https://github.com/Recognito-Vision/Product-List/assets/153883841/ec736b67-3c45-4458-ac92-d4992965c925" alt="face sdk" width="25"> Face SDK
