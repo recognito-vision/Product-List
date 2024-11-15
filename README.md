@@ -8,9 +8,7 @@
 
 # Recognito Product List
 
-We provide Biometric solutions for **Face Recognition**, **Fraud Detection** optimized for server and mobile environments.
-
-<!-- We provide on-premise SDK solutions for **Face Recognition**, **Liveness Detection**, and **ID Document Recognition**, **Liveness Detection** optimized for server and mobile environments. -->
+We provide on-premise **Face Biometrics** and **ID Document Verification** SDKs for Identity Verification solutions.
 
 ## <img src="https://github.com/recognito-vision/.github/assets/153883841/dc7c1c3f-8269-475c-a689-cb57be36a920" alt="home" width="25">   RECOGNITO Product Documentation
 &emsp;&emsp;<a href="https://docs.recognito.vision" style="display: flex; align-items: center;"><img src="https://recognito.vision/wp-content/uploads/2024/05/book.png" style="width: 64px; margin-right: 5px;"/></a>
@@ -41,6 +39,7 @@ We provide Biometric solutions for **Face Recognition**, **Fraud Detection** opt
   | Project | Platform | Feature | Description |
   |-----|:----------:|---------|-----------|
   |[**Linux Face Recogntion SDK**](https://github.com/Recognito-Vision/Linux-FaceRecognition-FaceLivenessDetection/tree/main/Recognition-Demo)|  <img src="https://github.com/Recognito-Vision/Product-List/assets/153883841/fe4fa1a0-3194-4fee-b58f-87f687014541" alt="linux" width="28px" /> | • Face Recognition | • Face Match Flask/Gradio Demo |
+  |[**Linux 1:N Face Identification SDK**](https://github.com/recognito-vision/Linux-FaceRecognition-FaceLivenessDetection/tree/main/Identification(1%3AN)-Demo)|  <img src="https://github.com/Recognito-Vision/Product-List/assets/153883841/fe4fa1a0-3194-4fee-b58f-87f687014541" alt="linux" width="28px" /> | • Face Recognition | • Face 1:N Search Flask Demo |
   |[**Linux Face Liveness Detection SDK**](https://github.com/Recognito-Vision/Linux-FaceRecognition-FaceLivenessDetection/tree/main/LivenessDetection-Demo)|  <img src="https://github.com/Recognito-Vision/Product-List/assets/153883841/fe4fa1a0-3194-4fee-b58f-87f687014541" alt="linux" width="28px" /> | • Face Liveness Detection <br/> • Face Pose Estimation | • Face Analysis Flask/Gradio Demo |
   |[**Linux Face Lite version SDK**](https://github.com/Recognito-Vision/Linux-FaceRecognition-FaceLivenessDetection/tree/main/FaceSDK-Lite-Demo)|  <img src="https://github.com/Recognito-Vision/Product-List/assets/153883841/fe4fa1a0-3194-4fee-b58f-87f687014541" alt="linux" width="28px" /> | • Face Recognition <br/> • Face Liveness Detection <br/> • Age, Gender, Face Pose, Eye Close, Mask, Glass | • Face Match, Analysis Flask/Gradio Demo |
   |[**Windows Face Lite version SDK**](https://github.com/Recognito-Vision/Windows-FaceRecognition-FaceLivenessDetection)|  <img src="https://github.com/Recognito-Vision/Product-List/assets/153883841/f3460c28-737b-4a55-bb3b-91e8b75fcf3d" alt="windows" width="28px" /> | • Face Recognition <br/> • Face Liveness Detection <br/> • Age, Gender, Face Pose, Eye Close, Mask, Glass | • Face Match, Analysis Flask/Gradio Demo <br/> • 1:N Video Surveillance Demo|
